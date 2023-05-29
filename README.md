@@ -4,3 +4,6 @@ A React Native app that I made to document my (rotten) life. An app made for wri
 
 # What's left:
 I want to use LSB steganography with the text files, to make em' more secure. That's the goal for now at least.
+
+# Edit:
+It's shit! Don't use it. Thanks.
